@@ -1,0 +1,12 @@
+Name: Abdullah
+Scores: -10
+Collected Coins: 0
+Name: Abdullah
+Scores: 20
+Collected Coins: 0
+Name: Abdullah
+Scores: 20
+Collected Coins: 0
+Name: Abdullah
+Scores: 20
+Collected Coins: 0
